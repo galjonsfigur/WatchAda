@@ -27,7 +27,6 @@ clean:
 	rm -f *.ali
 	rm -f $(OUTPUT_PATH)/*.o
 	rm -f $(OUTPUT_PATH)/*.ali
-	rm -f $(OUTPUT_PATH)/*.elf
 	rm b~watch.adb
 	rm b~watch.ads
 

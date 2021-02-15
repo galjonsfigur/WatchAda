@@ -4,8 +4,8 @@
 
 This repository contains Schematics, KiCad design files and software for Ada-powereded digital watch.
 It uses wonderful work of [msp430-ada project](https://sourceforge.net/projects/msp430ada/) by Brian Drummond.
-Software for this watch is a modification of original project and it will be further modified to add missing
-features like automatic brightness, temperature reading and Easter egg.
+Software for this watch is a modification of original project and adds missing
+features like automatic brightness, temperature reading and Easter Egg.
 
 
 ![Digital watch 3D view](ada-watch-3d-rev2.jpg)

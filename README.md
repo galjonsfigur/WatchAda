@@ -24,7 +24,9 @@ Docker image for it is still in progress as it requires exact same version of ho
 Interactive BOM can be found [here](hardware/rev2/bom/ibom.html).
 
 Remember to start with SMD components. Program the MSP430, put the display in place and
-test it before soldering it to the board.  
+test it before soldering it to the board.
+
+Case can be 3D printed with semi-transparent material or cut from thin PMMA.
 
 # License
 GPL (Same as MSP430-Ada project)

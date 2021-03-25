@@ -28,5 +28,10 @@ test it before soldering it to the board.
 
 Case can be 3D printed with semi-transparent material or cut from thin PMMA.
 
+The best way to program the microcontroller is to use [SOICBite](https://github.com/SimonMerrett/SOICbite) connected
+to MSP430-G2 Launchpad. Pin layout can be found in the schematic and only TEST, RST, GND and 3V need to be used to program it.
+After connecting the SOICBite, `make flash` command can be used. It uses `mspdebug` program and works only on GNU/Linux environment.
+The firmware binary can be found in `firmware/obj` folder.
+
 # License
 GPL (Same as MSP430-Ada project)

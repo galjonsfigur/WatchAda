@@ -1,0 +1,2 @@
+# Exclude generated IBOM
+hardware/rev2/bom/ibom.html linguist-generated
